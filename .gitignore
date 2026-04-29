@@ -1,0 +1,56 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables (IMPORTANT)
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite database
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Uvicorn / FastAPI temp
+*.pid
+
+# Node (if you ever add frontend)
+node_modules/
+
+# Excel / output files (optional)
+*.xlsx
+*.csv
