@@ -29,7 +29,7 @@ A FastAPI-based API to fetch stock financial data, statistics, and company profi
 # Installation
 
 ```bash
-git clone https://github.com/your-username/yahoo-finance-api.git
+git clone https://github.com/1jb16is118/yahoo-finance-api.git
 cd yahoo-finance-api
 
 python -m venv venv
